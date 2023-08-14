@@ -39,7 +39,7 @@
     display: flex;
     justify-content: space-between;
     float: left;
-    background: #D9FDD3;
+    background: #d3fdfb;
 
 }
 
@@ -271,7 +271,7 @@ h4 {
         justify-content: center;
         align-items: center;
         flex-direction: column;
-        background: #D9FDD3;
+        background: #59247c;
         z-index: 10;
         text-align: center;
     }
